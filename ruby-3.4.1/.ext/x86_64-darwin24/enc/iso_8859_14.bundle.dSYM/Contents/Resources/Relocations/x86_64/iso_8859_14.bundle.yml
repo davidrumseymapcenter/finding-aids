@@ -1,0 +1,5 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '.ext/x86_64-darwin24/enc/iso_8859_14.bundle'
+relocations:     []
+...
