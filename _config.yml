@@ -22,6 +22,9 @@ url     : "https://davidrumseymapcenter.github.io" # the base hostname & protoco
 baseurl : # does not include hostname
 theme   : jekyll-text-theme
 title   : Finding Aids
+remote_theme: jekyll-theme-text/jekyll-theme-text@v1.0.0
+plugins:
+  - jekyll-remote-theme
 description: > # this means to ignore newlines until "Language & timezone"
   Your Site Description
 
