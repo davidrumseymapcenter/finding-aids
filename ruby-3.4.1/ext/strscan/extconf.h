@@ -1,5 +1,0 @@
-#ifndef EXTCONF_H
-#define EXTCONF_H
-#define HAVE_ONIG_REGION_MEMSIZE 1
-#define HAVE_RB_REG_ONIG_MATCH 1
-#endif
