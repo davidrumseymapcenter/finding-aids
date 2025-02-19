@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About Us
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,6 +26,18 @@ titles:
 key: page-about
 ---
 
+![David Rumsey Map Center Banner](https://raw.githubusercontent.com/davidrumseymapcenter/.github/main/profile/sul_drmc_banner.png)
+
+## About Us
+
+We are the premiere historical cartographic collection on the West Coast and hold one of the world’s great collections available for public research and global digital access. The collection numbers in the hundreds of thousands of digital and physical objects, with new acquisitions added on a weekly basis.
+
+The center is also an exhibition space with a dynamic lineup of shows that feature cartographic materials. Two wall-sized screens are available for viewing maps and metadata in detail. We periodically host conferences, talks, and events. Our map librarians provide consultations and support for researchers, classes, and the public.
+
+Visit our website for more information: [David Rumsey Map Center](https://library.stanford.edu/libraries/david-rumsey-map-center)
+
+
+<!--
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
@@ -33,7 +45,7 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 ```javascript
 (() => console.log('Hello, World!'))();
 ```
-<!-- 
+ 
 ## Features
 
 - Responsive
