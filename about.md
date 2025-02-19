@@ -35,7 +35,6 @@ The center is also an exhibition space with a dynamic lineup of shows that featu
 Visit our website for more information: [David Rumsey Map Center](https://library.stanford.edu/libraries/david-rumsey-map-center)
 
 ## Contact Information
-
 <div style="background-color: #f9f9f9; border-radius: 8px; padding: 1rem; margin-top: 2rem;">
   <p><strong>Phone:</strong> (650) 498-8698</p>
   <p><strong>Email:</strong> <a href="mailto:rumseymapcenter@stanford.edu">rumseymapcenter@stanford.edu</a></p>
