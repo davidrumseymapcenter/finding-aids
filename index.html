@@ -3,6 +3,29 @@ layout: home
 title: Welcome to Finding Aids
 ---
 
-# Welcome to Finding Aids
-
-This is your homepage.
+<!-- Welcome/About Section -->
+<div class="welcome-section" style="text-align: center; padding: 2rem 0;">
+    <h1>Welcome to Finding Aids</h1>
+    <p>
+      This site is dedicated to providing curated finding aids and research resources.
+      Explore our latest posts below and discover helpful content!
+    </p>
+  </div>
+  
+  <!-- Posts Listing Section -->
+  <div class="posts-section">
+    <h2>Latest Posts</h2>
+    <ul class="posts-list" style="list-style: none; padding: 0;">
+      {% for post in site.posts %}
+        <li class="post-item" style="margin-bottom: 2rem; border-bottom: 1px solid #ccc; padding-bottom: 1rem;">
+          <a href="{{ post.url }}" style="text-decoration: none; color: inherit;">
+            {% if post.image %}
+              <img src="{{ post.image }}" alt="{{ post.title }} thumbnail" style="max-width: 100%; height: auto; display: block; margin: 0 auto 1rem;">
+            {% endif %}
+            <h3>{{ post.title }}</h3>
+          </a>
+          <p>{{ post.excerpt }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
