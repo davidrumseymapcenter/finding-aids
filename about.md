@@ -28,8 +28,6 @@ key: page-about
 
 ![David Rumsey Map Center Banner](https://raw.githubusercontent.com/davidrumseymapcenter/.github/main/profile/sul_drmc_banner.png)
 
-## About Us
-
 We are the premiere historical cartographic collection on the West Coast and hold one of the world’s great collections available for public research and global digital access. The collection numbers in the hundreds of thousands of digital and physical objects, with new acquisitions added on a weekly basis.
 
 The center is also an exhibition space with a dynamic lineup of shows that feature cartographic materials. Two wall-sized screens are available for viewing maps and metadata in detail. We periodically host conferences, talks, and events. Our map librarians provide consultations and support for researchers, classes, and the public.
