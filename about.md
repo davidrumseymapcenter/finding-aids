@@ -34,6 +34,21 @@ The center is also an exhibition space with a dynamic lineup of shows that featu
 
 Visit our website for more information: [David Rumsey Map Center](https://library.stanford.edu/libraries/david-rumsey-map-center)
 
+## Contact Information
+
+<div style="background-color: #f9f9f9; border-radius: 8px; padding: 1rem; margin-top: 2rem;">
+  <p><strong>Phone:</strong> (650) 498-8698</p>
+  <p><strong>Email:</strong> <a href="mailto:rumseymapcenter@stanford.edu">rumseymapcenter@stanford.edu</a></p>
+  <p><strong>Address:</strong><br>
+    Green Library<br>
+    557 Escondido Mall<br>
+    Stanford, CA 94305-6063
+  </p>
+  <p><strong>Hours:</strong> Open until 5 pm<br>
+    <a href="#">See hours for this week</a>
+  </p>
+</div>
+
 
 <!--
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
