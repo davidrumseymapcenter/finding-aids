@@ -1,12 +1,2 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/finding-aids/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/finding-aids/" rel="alternate" type="text/html" /><updated>2025-02-19T16:02:35-08:00</updated><id>http://localhost:4000/finding-aids/feed.xml</id><title type="html">Finding Aids</title><subtitle>Finding Aids Website for the David Rumsey Map Center.
-</subtitle><author><name>David Rumsey Map Center</name></author><entry><title type="html">Example Post</title><link href="http://localhost:4000/finding-aids/example/2025/02/19/example-post.html" rel="alternate" type="text/html" title="Example Post" /><published>2025-02-19T10:00:00-08:00</published><updated>2025-02-19T10:00:00-08:00</updated><id>http://localhost:4000/finding-aids/example/2025/02/19/example-post</id><content type="html" xml:base="http://localhost:4000/finding-aids/example/2025/02/19/example-post.html"><![CDATA[<h2 id="hello-from-the-example-post">Hello from the Example Post</h2>
-
-<p>This is a short example post to show how your latest posts will appear on the homepage.<br />
-Feel free to add more text, images, or formatting here.</p>
-
-<h3 id="add-a-code-snippet">Add a Code Snippet</h3>
-
-<p>```ruby
-puts “Hello, World!”</p>
-
-<p><img src="/assets/images/my-image.jpg" alt="My Local Image" /></p>]]></content><author><name>David Rumsey Map Center</name></author><category term="Example" /><category term="demo" /><category term="tutorial" /><summary type="html"><![CDATA[Hello from the Example Post This is a short example post to show how your latest posts will appear on the homepage. Feel free to add more text, images, or formatting here. Add a Code Snippet ```ruby puts “Hello, World!”]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/finding-aids/assets/images/example-banner.jpg" /><media:content medium="image" url="http://localhost:4000/finding-aids/assets/images/example-banner.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/finding-aids/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/finding-aids/" rel="alternate" type="text/html" /><updated>2025-02-19T16:03:32-08:00</updated><id>http://localhost:4000/finding-aids/feed.xml</id><title type="html">Finding Aids</title><subtitle>Finding Aids Website for the David Rumsey Map Center.
+</subtitle><author><name>David Rumsey Map Center</name></author></feed>
